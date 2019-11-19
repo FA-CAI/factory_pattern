@@ -6,7 +6,7 @@ import com.shangxue.factory_pattern_me.Milk;
 public interface Factory {
 
     //工厂必然具有生产产品技能，统一的产品出口
-    Milk getMilk();
+    Milk getMilk();   //得到牛奶产品
 
 
 }

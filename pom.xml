@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.zk.pattern</groupId>
-    <artifactId>gupao_pattern_mode</artifactId>
+    <artifactId>factory_pattern</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>
